@@ -1,0 +1,14 @@
+{
+    "name": "Snowflake Proxy",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "Anti censorship proxy",
+    "platforms": ["pi/v6", "pi/v7", "pi/v8"],
+    "offline": {
+        "support": "no",
+        "info": "Needs network connection"
+    },
+    "nesting": {
+        "parents": "any",
+        "childs": []
+    }
+}

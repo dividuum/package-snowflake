@@ -1,0 +1,4 @@
+#!/bin/sh
+cp proxy /tmp
+chmod 755 /tmp/proxy
+exec /tmp/proxy --verbose

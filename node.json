@@ -1,0 +1,6 @@
+{
+    "name": "Proxy",
+    "permissions": {
+        "network": "Needs network access"
+    }
+}
